@@ -15,7 +15,7 @@ public class PrimerosNnumerosPares {
 		for(int i = 0; i<=n; i=i+1) {
 			
 			if( i%2 == 0 ) {
-				System.out.println(i);
+				System.out.println(i);				
 			}
 			
 		}
