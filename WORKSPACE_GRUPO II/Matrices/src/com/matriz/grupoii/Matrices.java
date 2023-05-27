@@ -31,7 +31,8 @@ public class Matrices {
     for(int i = 0 ; i < 6 ; i++) {
       matriz[i][i] = 1;          
     }
-    imprimirMatriz(matriz, 6, 6);
+    imprimirMatriz(matriz, 6, 6); 
+    System.out.println("Termino el programa...");
   }
 
 }
