@@ -28,7 +28,7 @@ public class Burbuja {
   public static int[] crearVector(int tamanio) {
     int[] devolver = new int[tamanio];
     for (int i = 0; i < tamanio; i++) {
-      devolver[i] = tamanio + 1 - i;
+      devolver[i] = (int)(Math.random()*10+1);
     }
     return devolver;
   }
