@@ -11,7 +11,7 @@ public class Experimentos {
 		
 		System.out.println(  "El valor de la variable c es " + c  );
 		
-		System.out.println("EL VALOR EN CALIENTE -> " + (a/c)  );
+		System.out.println("EL VALOR EN CALIENTE -> " + (c/a)  );
 		c = c / a;
 		System.out.println(  "El valor de la variable c es " + c  );
 		
