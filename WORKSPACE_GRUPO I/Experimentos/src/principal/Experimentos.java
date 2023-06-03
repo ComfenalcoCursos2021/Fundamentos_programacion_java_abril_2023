@@ -29,6 +29,9 @@ public class Experimentos {
 		System.out.println("El valor maximo del float es " + Float.MAX_VALUE);
 		System.out.println("El valor minimo del float es " + Float.MIN_VALUE);
 		System.out.println("---------------");
+		System.out.println("El valor maximo del double es " + Double.MAX_VALUE);
+		System.out.println("El valor minimo del double es " + Double.MIN_VALUE);
+		System.out.println("---------------");
 		System.out.println("Termino el programa ... ");
 	}
 
